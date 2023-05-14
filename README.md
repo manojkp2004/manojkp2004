@@ -24,17 +24,16 @@
 </section>
 
 <div>
-LinkedIn 
-  <a href="https://www.linkedin.com/in/thisismanoj"><img src="https://cdn.iconscout.com/icon/free/png-64/linkedin-189-721962.png" width=50 height=50></a>
+  <a href="https://www.linkedin.com/in/thisismanoj"><img src="https://cdn.iconscout.com/icon/free/png-64/linkedin-189-721962.png" width=50 height=50></a> <br> LinkedIn 
 </div>
 
 <div>
-  <a href="https://www.instagram.com/manojkumar04._"><img src="https://cdn.iconscout.com/icon/free/png-64/instagram-216-721958.png" width=50 height=50></a>
+  <a href="https://www.instagram.com/manojkumar04._"><img src="https://cdn.iconscout.com/icon/free/png-64/instagram-216-721958.png" width=50 height=50></a> <br> Instagram 
 </div>
 
 <div>
   <a href="https://www.twitter.com/manojk58">
-<img src="https://cdn.iconscout.com/icon/free/png-64/twitter-241-721979.png" width=50 height=50></a>
+<img src="https://cdn.iconscout.com/icon/free/png-64/twitter-241-721979.png" width=50 height=50></a> <br> Twitter 
 </div>
 
 
