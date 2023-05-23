@@ -11,7 +11,7 @@
 - 👀 I’m interested in Software Development, Android Development and Cyber Security.
 - 🌱 I’m currently pursuing Bachelor of Technology in Computer Engineering from Vellore Institute Of Technology, Bhopal.
 - 😊 Increasing my knowledge and abilities to contribute.
-- 📖 How to reach me: Email - manojkpr92586@protonmail.com
+- 📖 How to reach me: Email - manojkpr92806@gmail.com
 
 
 
