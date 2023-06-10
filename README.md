@@ -7,7 +7,7 @@
 - ✨ Additionally, I actively engage in practicing Data Structures and Algorithms (DSA) with a focus on utilizing the power of Java. This allows me to enhance my problem-solving skills and strengthen my foundation in algorithmic thinking.
 - 🎯 Looking ahead, my ultimate goal is to establish myself as a proficient software developer. By leveraging my academic pursuits and practical experiences, I am dedicated to building innovative solutions and contributing to the ever-evolving field of software development.
 - ✉️ manojkpr92806@gmail.com
-- Do checkout my portfolio website
+- 🌐 Do checkout my portfolio website
 https://manojkp08.github.io/MyPortfolioSite
 
 ## Github Stats
