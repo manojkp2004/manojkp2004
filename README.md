@@ -11,15 +11,20 @@
 https://manojkp08.github.io/MyPortfolioSite
 
 ## Github Stats
+<br>
+<div align="center">
+    <img height="200px" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=manojkp08&theme=gruvbox_light&layout=compact"/>
+</div>
 
+<br>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=manojkp08&show_icons=true&theme=radical)](https://github.com/manojkp08)
+<div align="center">
+    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=manojkp08"/>
+</div>
+<div align="center">
+	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
+</div>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manojkp08&layout=compact&theme=radical)](https://github.com/manojkp08)
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manojkp08&theme=radical)](https://github.com/manojkp08)
 
 
 ## Social Media
