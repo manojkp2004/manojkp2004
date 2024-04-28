@@ -10,7 +10,26 @@
 - 🌐 Do checkout my portfolio website
 https://manojkp08.github.io/MyPortfolioSite
 
+```
+val manoj = Manoj(
+        pronouns = "He/Him",
+        code = listOf("Kotlin", "Java", "Python", "Rust"),
+        askMeAbout = listOf("android-dev", "backend", "photography"),
+        technologies = Technologies(
+            backEnd = Backend(js = listOf("Python", "Django")),
+            mobileApp = MobileApp(native = listOf("Android Development")),
+            devOps = listOf("Azure", "AWS", "Docker🐳"),
+            databases = listOf("Firebase-firestore", "PostgreSQL", "MySQL", "Mongo"),
+            misc = listOf("Firebase", "Socket.IO", "Prisma", "Appwrite")
+        ),
+        currentFocus = "To Crack MAANG companies",
+        funFact = "There are two ways to write error-free programs; only the third one works"
+    )
+```
+
 ## Github Stats
+<br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manojkp08&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 <br>
 <div align="center">
     <img height="200px" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=manojkp08&theme=gruvbox_light&layout=compact"/>
