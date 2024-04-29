@@ -4,9 +4,9 @@ name: Awesome Github Readme
 
 # Controls when the workflow will run
 on:
-  # run automatically every 336 hours
+  # run automatically every 168 hours
   schedule:
-    - cron: "0 */336 * * *"
+    - cron: "0 */168 * * *"
   # Triggers the workflow on push or pull request events but only for the "main" branch
   push:
     branches: [ "main" ]
@@ -32,9 +32,10 @@ jobs:
 
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3.2.0
+
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: "manojkp08"
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
