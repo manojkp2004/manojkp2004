@@ -29,6 +29,12 @@ val manoj = Manoj(
 
 ## Github Stats
 <br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+<br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=manojkp08&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 <br>
 <div align="center">
