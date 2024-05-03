@@ -1,58 +1,54 @@
-# 🙏 Hi there, I'm Manoj Kumar!
+# 🙏 Hey there, I'm Manoj Kumar!
 
 ## 🌱 About Me
-
-I'm deeply passionate about programming and enjoy working with Java and Kotlin. I actively engage in practicing Data Structures and Algorithms to strengthen my problem-solving skills. My ultimate goal is to establish myself as a proficient software developer, contributing innovative solutions to the field.
+Welcome to my corner of the digital world! I'm Manoj Kumar, deeply passionate about programming and constantly exploring new avenues in software development. With a focus on Java and Kotlin, I love diving into Data Structures and Algorithms to refine my problem-solving skills. My ultimate aim is to make impactful contributions to the software development landscape with innovative solutions.
 
 ## 📫 Get in Touch
+Don't hesitate to reach out to me! Whether it's about exciting opportunities or collaboration ideas, I'm all ears.
+- **Email:** [manojkpr92806@gmail.com](mailto:manojkpr92806@gmail.com)
+- **Portfolio:** [manojkp08.github.io/MyPortfolioSite](https://manojkp08.github.io/MyPortfolioSite)
+- **LinkedIn:** [linkedin.com/in/manojkp08](https://www.linkedin.com/in/manojkp08/)
+- **Twitter:** [twitter.com/manojkp08](https://twitter.com/manojkp08)
 
-- Email: manojkpr92806@gmail.com
-- Portfolio: [manojkp08.github.io/MyPortfolioSite](https://manojkp08.github.io/MyPortfolioSite)
-- LinkedIn: [linkedin.com/in/manojkp08](https://www.linkedin.com/in/manojkp08/)
-- Twitter: [twitter.com/manojkp08](https://twitter.com/manojkp08)
-
-Feel free to reach out! I'm always open to new opportunities and collaborations.
 
 ```
 val manoj = Manoj(
-        pronouns = "He/Him",
-        code = listOf("Kotlin", "Java", "Python", "Rust"),
-        askMeAbout = listOf("android-dev", "backend", "photography"),
-        technologies = Technologies(
-            backEnd = Backend(js = listOf("Python", "Django")),
-            mobileApp = MobileApp(native = listOf("Android Development")),
-            devOps = listOf("Azure", "AWS", "Docker🐳"),
-            databases = listOf("Firebase-firestore", "PostgreSQL", "MySQL", "Mongo"),
-            misc = listOf("Firebase", "Socket.IO", "Prisma", "Appwrite")
-        ),
-        currentFocus = "To Crack MAANG companies",
-        funFact = "There are two ways to write error-free programs; only the third one works"
-    )
+    pronouns = "He/Him",
+    code = listOf("Kotlin", "Java", "Python", "Rust"),
+    askMeAbout = listOf("android-dev", "backend", "photography"),
+    technologies = Technologies(
+      backEnd = Backend(js = listOf("Python", "Django")),
+      mobileApp = MobileApp(native = listOf("Android Development")),
+      devOps = listOf("Azure", "AWS", "Docker🐳"),
+      databases = listOf("Firebase-firestore", "PostgreSQL", "MySQL", "Mongo"),
+      misc = listOf("Firebase", "Socket.IO", "Prisma", "Appwrite")
+    ),
+    currentFocus = "To Crack MAANG companies",
+    funFact = "There are two ways to write error-free programs; only the third one works"
+  )
 ```
 
-## Github Stats
-<br>
+
+## GitHub Stats
+### Contribution Grid Snake
 <picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manojkp08/manojkp08/output/github-snake-dark.svg">
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manojkp08/manojkp08/output/github-snake-dark.svg">
 	<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manojkp08/manojkp08/output/github-snake.svg">
 	<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/manojkp08/manojkp08/output/github-snake.svg">
 </picture>
-<br>
+
+### Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manojkp08&theme=react-dark&bg_color=20232a&hide_border=true)
+
+### Streak Stats
 <div align="center">
-	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
+	<img src="https://github-readme-streak-stats.herokuapp.com?user=manojkp08&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </div>
-<br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manojkp08&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-<br>
+
+### GitHub Stats
 <div align="center">
-	<a href="https://git.io/streak-stats">
-		<img src="https://github-readme-streak-stats.herokuapp.com?user=manojkp08&theme=transparent&hide_border=true" alt="GitHub Streak" />
-	</a>
-	<a>
-		<img src="https://github-readme-stats.vercel.app/api?username=manojkp08&show_icons=true&theme=dark&border=false" alt="Github Stat" />
-	</a>
+	<img src="https://github-readme-stats.vercel.app/api?username=manojkp08&show_icons=true&theme=dark&border=false" alt="Github Stat" />
 </div>
-<br>
 
 ## Social Media
 
