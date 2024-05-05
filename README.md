@@ -5,8 +5,8 @@ Welcome to my corner of the digital world! I'm Manoj Kumar, deeply passionate ab
 
 ## 📫 Get in Touch
 Don't hesitate to reach out to me! Whether it's about exciting opportunities or collaboration ideas, I'm all ears.
-- **Email:** [manojkpr92806@gmail.com](mailto:manojkpr92806@gmail.com)
-- **Portfolio:** [manojkp08.github.io/MyPortfolioSite](https://manojkp08.github.io/MyPortfolioSite)
+- **✉️Email:** [manojkpr92806@gmail.com](mailto:manojkpr92806@gmail.com)
+- **🌐Portfolio:** [manojkp08.github.io/MyPortfolioSite](https://manojkp08.github.io/MyPortfolioSite)
 - **LinkedIn:** [linkedin.com/in/manojkp08](https://www.linkedin.com/in/manojkp08/)
 - **Twitter:** [twitter.com/manojkp08](https://twitter.com/manojkp08)
 
